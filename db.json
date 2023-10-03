@@ -1,0 +1,98 @@
+{
+  "categories": [
+    {
+      "name": "Alura Challenge",
+      "color": "#257be5",
+      "description": "Challenge completado",
+      "id": "df7278db-0839-4a89-b27e-1d612c06a880"
+    },
+    {
+      "name": "Twitch streams",
+      "color": "#a00ae6",
+      "description": "Descripcion de la categoria de twitch streams",
+      "id": "235dd540-0ca1-4ffd-9c26-1bc03c86a44f"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Link nuevo de prueba",
+      "videoUrl": "https://www.youtube.com/watch?v=SYCP71qcYZw\"",
+      "imgLink": "https://i.ytimg.com/vi/SYCP71qcYZw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAs4DigIMCAAQARhNIEcoWTAP&rs=AOn4CLAeMIuNQgnenH_OGFnu2oas64QEUA",
+      "category": "235dd540-0ca1-4ffd-9c26-1bc03c86a44f",
+      "description": "Pequeña descripcion de 20 caracteres",
+      "id": "e7aa3e4d-02d8-4428-bba6-e1a81b0b1133"
+    },
+    {
+      "title": "Las flipantes aventuras de martolino",
+      "videoUrl": "https://youtu.be/_LLCz1FCWrY?si=NGPeJuRMRHewRpvf",
+      "imgLink": "https://i.ytimg.com/vi/zhIScvlFn2w/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGQgPyhlMA8=&rs=AOn4CLCazDkc_1q3afdphT_BHdgKAWj53w",
+      "category": "235dd540-0ca1-4ffd-9c26-1bc03c86a44f",
+      "description": "Descripcion de 20 caracteres",
+      "id": "c65549d9-c3b2-4967-a7bd-9feea0ff1c7a"
+    },
+    {
+      "title": "𝐇𝐀𝐂𝐊𝐄𝐑𝐒 - A very good (bad) 90s film",
+      "videoUrl": "https://youtu.be/i-HXbkoEaDE?si=miew5mH0AZR-2Dlw",
+      "imgLink": "https://i.ytimg.com/vi/i-HXbkoEaDE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAuXZRt-jgp-XMzrUk7p3fnMrayg",
+      "category": "235dd540-0ca1-4ffd-9c26-1bc03c86a44f",
+      "description": "This man casually called the very concept of comedic relief “the Jar-Jar Binks character” and I haven’t stopped thinking about it for the last 3 days",
+      "id": "8e7b5513-2b37-4a3e-9950-0c19bd5ca640"
+    },
+    {
+      "title": "Sad Cat Dance Meme",
+      "videoUrl": "https://youtu.be/7q4nVszSOrM?si=TVFqQya8YXGt3-H8",
+      "imgLink": "https://i.ytimg.com/vi/7q4nVszSOrM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAte2dMDh9UsCQ-4dCdD6Ly_oMJog",
+      "category": "235dd540-0ca1-4ffd-9c26-1bc03c86a44f",
+      "description": "Randowis es un master haciendo videos",
+      "id": "f5ef7f54-6aba-4a0e-904e-f96d9a935b64"
+    },
+    {
+      "title": "Telepurte",
+      "videoUrl": "https://youtu.be/FVgJ5obEbTU?si=bbR6OZzHWcTIcux6",
+      "imgLink": "https://i.ytimg.com/vi/FVgJ5obEbTU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-DoACuAiKAgwIABABGGUgZShlMA8=&rs=AOn4CLAiYrK51sk_yLdZ8SBixBj6DCta5g",
+      "category": "235dd540-0ca1-4ffd-9c26-1bc03c86a44f",
+      "description": "No se que poner aqui asi que lo dejo como place holder",
+      "id": "7a398304-384c-4b5a-81ea-455d8d15e5d6"
+    },
+    {
+      "title": "Inmerdion Dev",
+      "videoUrl": "https://youtu.be/AQOcEeOV5DA?si=Pv-8C4MhN8zFJiU0",
+      "imgLink": "https://i.ytimg.com/vi/AQOcEeOV5DA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuH3k2-SDZyMrFMwUuf0_WygBiUA",
+      "category": "df7278db-0839-4a89-b27e-1d612c06a880",
+      "description": "Nueva descripcion del video",
+      "id": "252a61f0-c076-438c-a404-b64c0be48c16"
+    },
+    {
+      "title": "Cafe: Tech",
+      "videoUrl": "https://www.youtube.com/live/Nk2FfJFig2Y?si=YWdcpxbxN3EXe_u8",
+      "imgLink": "https://i.ytimg.com/vi/Nk2FfJFig2Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6yhnvK9kq8MXvJzqRlz2_Q1r5_g",
+      "category": "df7278db-0839-4a89-b27e-1d612c06a880",
+      "description": "En este Cafe Punto Tech vamos a hablar de un tema muy candente en el mundo de la tecnología: ¿Por qué las empresas buscan especialistas en JavaScript?",
+      "id": "35ba6585-d422-4a38-b4e8-1b2bd7a8f9d6"
+    },
+    {
+      "title": "Inmersión Datos 2: ¿Cuáles son los próximos pasos en tu carrera de datos?",
+      "videoUrl": "https://www.youtube.com/live/CpL7-sbW2O0?si=Yft8Xe8G5TGRlrAc",
+      "imgLink": "https://i.ytimg.com/vi/CpL7-sbW2O0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDB-0hCN7PLyaw3PwOiFd9K4VLkA",
+      "category": "df7278db-0839-4a89-b27e-1d612c06a880",
+      "description": "Descubre cuáles son los próximos pasos de tu carrera profesional en el sector de los datos, impulsa tu crecimiento, mejora tus ...",
+      "id": "4ad3258b-7a04-46df-9780-1b9612ef2832"
+    },
+    {
+      "title": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "videoUrl": "https://youtu.be/UuAX5azcvDQ?si=mLEvyE8wqni3H99R",
+      "imgLink": "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANQCnxWMWjK09Z80LzZEn4oj0PGQ",
+      "category": "df7278db-0839-4a89-b27e-1d612c06a880",
+      "description": "Cómo un desarrollador Front End utiliza el Figma? En este Alura+, Genesys, instructora de Alura Latam, nos responde esa ...",
+      "id": "37444b64-7a2f-4af7-8140-ddae141e8403"
+    },
+    {
+      "title": "Git y GitHub para Principiantes #AluraMás",
+      "videoUrl": "https://youtu.be/-LmFK6skG7s?si=slFYuzGexQY7SMVX",
+      "imgLink": "https://i.ytimg.com/vi/-LmFK6skG7s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlXkMbnlkqyWRltInnbetaRZekdA",
+      "category": "df7278db-0839-4a89-b27e-1d612c06a880",
+      "description": "Ve nuestros cursos de GitHub Ve cómo funciona esta famosa herramienta de colaboración muy utilizada en el universo de la ...",
+      "id": "79902eb5-ace8-448f-9955-7ab7e7eae4ad"
+    }
+  ]
+}
